@@ -1,0 +1,16 @@
+
+## User settings
+xcuserdata/
+
+build/
+DerivedData/
+
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+Pods/
+.build/
+"Flash Chat iOS13"/GoogleService-Info.plist
